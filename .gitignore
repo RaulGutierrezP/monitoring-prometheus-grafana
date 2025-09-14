@@ -1,0 +1,16 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE / editors
+.vscode/
+*.swp
+
+# Secrets
+*.pem
+*.key
+secrets.env
+
+# OS files
+*.log
+EOF
