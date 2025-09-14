@@ -1,1 +1,0 @@
-![Dashboard de Grafana](monitoring-prometheus-grafana/images/Dashboard_general.png)
